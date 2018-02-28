@@ -1,0 +1,4 @@
+1. find out mac and ip of victim using mobile model or social engineering
+2. find out bssid , channel using airodump-ng
+3. find out router ip address
+4. feed these info into program
